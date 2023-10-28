@@ -9,10 +9,10 @@
 - I hope I will be able to re-branch in the near future.
 
   
-<summary>My top languages</summary>
+<summary>My top interests</summary>
 <details>
 
- | Rank | Languages |
+| Rank |   Interests   |
 |-----:|---------------|
 |     1|       Java    |
 |     2|       SQL     |

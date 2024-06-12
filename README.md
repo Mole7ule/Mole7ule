@@ -12,12 +12,12 @@
 <summary>My top interests</summary>
 <details>
 
-| Rank |   Interests   |
-|-----:|---------------|
-|     1|       Java    |
-|     2|       SQL     |
-|     3|       Git     |
-
+| Rank |   Interests    |
+|-----:|----------------|
+|     1|       Java     |
+|     2|       SQL      |
+|     3|       Git      |
+|     4|Software testing|
 </details>
 
 <!---
